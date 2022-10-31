@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.12.28)  31 OCT 2022 18:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.12.28)  31 OCT 2022 18:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1024,7 +1024,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.61 
+l.63 
       [1] (/Users/marc/idia-latex/maquette-idia/maquette.toc
 LaTeX Font Info:    Try loading font information for U+msa on input line 5.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -1504,21 +1504,21 @@ Underfull \vbox (badness 10000) detected at line 24
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 96.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
  [38
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 96.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
  (/Users/marc/idia-latex/maquette-idia/maquette.aux (/Users/marc/idia-latex/maquette-idia/generated/semestre.aux) (/Users/marc/idia-latex/maquette-idia/generated/1.aux) (/Users/marc/idia-latex/maquette-idia/generated/2.aux) (/Users/marc/idia-latex/maquette-idia/generated/3.aux) (/Users/marc/idia-latex/maquette-idia/generated/4.aux) (/Users/marc/idia-latex/maquette-idia/generated/5.aux) (/Users/marc/idia-latex/maquette-idia/generated/6.aux) (/Users/marc/idia-latex/maquette-idia/generated/7.aux) (/Users/marc/idia-latex/maquette-idia/generated/8.aux) (/Users/marc/idia-latex/maquette-idia/generated/9.aux) (/Users/marc/idia-latex/maquette-idia/generated/10.aux) (/Users/marc/idia-latex/maquette-idia/generated/11.aux) (/Users/marc/idia-latex/maquette-idia/generated/12.aux) (/Users/marc/idia-latex/maquette-idia/generated/13.aux) (/Users/marc/idia-latex/maquette-idia/generated/14.aux) (/Users/marc/idia-latex/maquette-idia/generated/15.aux) (/Users/marc/idia-latex/maquette-idia/generated/16.aux) (/Users/marc/idia-latex/maquette-idia/generated/17.aux) (/Users/marc/idia-latex/maquette-idia/generated/18.aux) (/Users/marc/idia-latex/maquette-idia/generated/19.aux) (/Users/marc/idia-latex/maquette-idia/generated/20.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 96.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 96.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
 Package rerunfilecheck Info: File `maquette.out' has not changed.
 (rerunfilecheck)             Checksum: 3F306F46E0223A99CADC7DCB69EF79D9;7916.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 96.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 98.
  ) 
 Here is how much of TeX's memory you used:
  9886 strings out of 492995
@@ -1529,7 +1529,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  33i,35n,43p,1074b,815s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on /Users/marc/idia-latex/maquette-idia/maquette.pdf (39 pages, 163762 bytes).
+Output written on /Users/marc/idia-latex/maquette-idia/maquette.pdf (39 pages, 163806 bytes).
 PDF statistics:
  867 PDF objects out of 1000 (max. 8388607)
  809 compressed objects within 9 object streams
