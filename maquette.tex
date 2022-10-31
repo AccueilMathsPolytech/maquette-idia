@@ -1,0 +1,97 @@
+% LaTeX Template for short student reports.
+% Citations should be in bibtex format and go in references.bib
+\documentclass[a4paper, 11pt]{article}
+\usepackage[top=3cm, bottom=3cm, left = 2cm, right = 2cm]{geometry} 
+\geometry{a4paper} 
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\usepackage[french]{babel}
+\usepackage{textcomp}
+\usepackage{graphicx} 
+\usepackage{amsmath,amssymb}  
+\usepackage{bm}  
+\usepackage[pdftex,bookmarks,colorlinks,breaklinks]{hyperref}  
+\hypersetup{linkcolor=black,citecolor=black,filecolor=black,urlcolor=black} % black links, for printed output
+\usepackage{memhfixc} 
+\usepackage{pdfsync}  
+\usepackage{fancyhdr}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{longtable}
+\pagestyle{fancy}
+
+\title{Ingénieur spécialité informatique \\ parcours Ingénierie de la donnée et de l'intelligence articifielle \\ (par la voie de l'apprentissage))}
+\date{}
+
+\begin{document}
+
+
+\begin{titlepage}
+    \begin{centering}
+    \newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+
+    %\includegraphics[scale=0.1]{ponts.png} \\[1cm]
+    \HRule \\[0.4cm]
+    { \huge \bfseries Ingénieur spécialité informatique (INFO)\linebreak 
+    \vspace*{1cm} \huge parcours 
+    \linebreak par la voie de l'apprentissage \vspace*{1cm} \linebreak
+     Ingénierie de la donnée 
+     \linebreak et de l'intelligence articifielle (IDIA) 
+     \linebreak \vspace*{1cm} \\[0.15cm] }
+    \HRule \\[1.5cm]
+    \Huge Polytech Nantes
+    \\[1cm]
+    \includegraphics[scale=0.4]{polytech-nantes.png}
+    \end{centering}
+
+\vfill
+
+Document compilé le \today.
+\end{titlepage}
+
+\vfill
+
+Ce document présente le programme de formation se déroulant sur le cycle ingénieur (années bac+3,bac+5,bac+5), tel que prévu pour l'année 2022-2023. Quelques modifications (interversions de matières/années) prévues pour l'année 2023-2024 sont incluses pour anticiper sur la version prévisionnelle stabilisée future.
+
+Ce programme ne décrit que la partie de la formation se déroulant à l'école (60 semaines sur 3 ans). Bien entendue, la partie se déroulant en entreprise contribue aussi à la formation de l'apprenti.e.
+
+Chaque semestre est composé d'Unités d'Enseignements (UE), elles-mêmes composées de matières (parfois nommés "éléments constitutifs" (d'UE)). L'organisation en Unités d'Enseignement correspond aux grands domaines de compétences de la formation. La validation d'une UE attribue à l'élève un nombre de crédits dits ECTS (European Credit Transfert System) associé à l'UE. Une année est composée de deux semestres, chacun composé de 30 ECTS. Ainsi, le cycle ingénieur sur 3 ans apporte 180 ECTS. Le niveau de compétence de l'élève, lui, sera évalué par un grade associé à cette UE (une lettre entre A et F). Les crédits ECTS associés à une UE sont des indicateurs du temps de travail total de l'élève (présentiel école et personnel) associé à cette UE. Pour les UE en formation à l'école, la norme est d'environ 25h de travail par crédit.  
+
+\pagebreak
+
+\tableofcontents
+\pagebreak
+\part{Vue synthétique}
+\include{"generated/semestre"}
+\part{3eme année - semestre 5}
+\include{"generated/1"}
+\include{"generated/2"}
+\include{"generated/3"}
+\include{"generated/4"}
+\include{"generated/5"}
+\part{3eme année - semestre 6}
+\include{"generated/6"}
+\include{"generated/7"}
+\include{"generated/8"}
+\include{"generated/9"}
+\include{"generated/10"}
+\part{4eme année - semestre 7}
+\include{"generated/11"}
+\include{"generated/12"}
+\include{"generated/13"}
+\include{"generated/14"}
+\include{"generated/15"}
+\part{4eme année - semestre 8}
+\include{"generated/16"}
+\include{"generated/17"}
+\include{"generated/18"}
+\include{"generated/19"}
+\include{"generated/20"}
+\part{5eme année - semestre 9}
+
+
+
+\bibliographystyle{abbrv}
+% \bibliography{references}  % need to put bibtex references in references.bib 
+\end{document}
+
