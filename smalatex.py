@@ -13,7 +13,7 @@ geometry_options = {"tmargin": "1cm", "lmargin": "10cm"}
 doc = Document(geometry_options=geometry_options)
 
 #
-#  Lecture des tables de données depuis la source
+#  Lecture des tables de données depuis la source XLS
 #
 
 data_source_file = "schema-donnees-IDIA.xlsx"
