@@ -222,6 +222,7 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 OUTPUT /Users/marc/idia-latex/maquette-idia/maquette.toc
 OUTPUT /Users/marc/idia-latex/maquette-idia/generated/semestre.aux
 INPUT /Users/marc/idia-latex/maquette-idia/generated/semestre.tex
@@ -229,6 +230,7 @@ INPUT /Users/marc/idia-latex/maquette-idia/generated/semestre.tex
 OUTPUT /Users/marc/idia-latex/maquette-idia/generated/1.aux
 INPUT /Users/marc/idia-latex/maquette-idia/generated/1.tex
 INPUT /Users/marc/idia-latex/maquette-idia/generated/1.tex
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm
 OUTPUT /Users/marc/idia-latex/maquette-idia/generated/2.aux
 INPUT /Users/marc/idia-latex/maquette-idia/generated/2.tex
 INPUT /Users/marc/idia-latex/maquette-idia/generated/2.tex
@@ -333,7 +335,10 @@ INPUT /Users/marc/idia-latex/maquette-idia/maquette.out
 INPUT /Users/marc/idia-latex/maquette-idia/maquette.out
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb

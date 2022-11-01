@@ -5,41 +5,41 @@
 \contentsline {subsection}{\numberline {1.1}Algorithmes et structures de donn\IeC {\'e}es}{11}{subsection.1.1}
 \contentsline {subsection}{\numberline {1.2}Introduction au d\IeC {\'e}veloppement logiciel}{11}{subsection.1.2}
 \contentsline {subsection}{\numberline {1.3}Projet de d\IeC {\'e}veloppement logiciel}{11}{subsection.1.3}
-\contentsline {subsection}{\numberline {1.4}Total UE :}{11}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.4}\textit {Total UE :}}{11}{subsection.1.4}
 \contentsline {section}{\numberline {2}UE Informatique fondamentale}{12}{section.2}
 \contentsline {subsection}{\numberline {2.1}Th\IeC {\'e}orie des graphes}{12}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Logique math\IeC {\'e}matique}{12}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}Automates et probabilit\IeC {\'e}s}{12}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}Total UE :}{12}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.4}\textit {Total UE :}}{12}{subsection.2.4}
 \contentsline {section}{\numberline {3}UE Architectures et syst\IeC {\`e}mes informatiques}{13}{section.3}
 \contentsline {subsection}{\numberline {3.1}Syst\IeC {\`e}mes informatiques}{13}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}R\IeC {\'e}seaux}{13}{subsection.3.2}
 \contentsline {subsection}{\numberline {3.3}Mod\IeC {\`e}le et langage relationnels}{13}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}Total UE :}{13}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.4}\textit {Total UE :}}{13}{subsection.3.4}
 \contentsline {section}{\numberline {4}UE Humanit\IeC {\'e}s}{15}{section.4}
 \contentsline {subsection}{\numberline {4.1}Sciences Sociales Appliqu\IeC {\'e}es au Travail S5}{15}{subsection.4.1}
 \contentsline {subsection}{\numberline {4.2}Anglais}{15}{subsection.4.2}
 \contentsline {subsection}{\numberline {4.3}Economie}{15}{subsection.4.3}
 \contentsline {subsection}{\numberline {4.4}Analyse de la pratique S5}{15}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Total UE :}{15}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.5}\textit {Total UE :}}{15}{subsection.4.5}
 \contentsline {section}{\numberline {5}UE Activit\IeC {\'e} en entreprise S5}{16}{section.5}
 \contentsline {subsection}{\numberline {5.1}Activit\IeC {\'e} en entreprise S5}{16}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}Total UE :}{16}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.2}\textit {Total UE :}}{16}{subsection.5.2}
 \contentsline {part}{III\hspace {1em}3eme ann\IeC {\'e}e - semestre 6}{17}{part.3}
 \contentsline {section}{\numberline {6}UE Logiciel}{18}{section.6}
 \contentsline {subsection}{\numberline {6.1}Programmation objet en Java}{18}{subsection.6.1}
 \contentsline {subsection}{\numberline {6.2}Technologies web}{18}{subsection.6.2}
-\contentsline {subsection}{\numberline {6.3}Total UE :}{18}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.3}\textit {Total UE :}}{18}{subsection.6.3}
 \contentsline {section}{\numberline {7}UE Math\IeC {\'e}matiques appliqu\IeC {\'e}es}{19}{section.7}
 \contentsline {subsection}{\numberline {7.1}Alg\IeC {\`e}bre lin\IeC {\'e}aire}{19}{subsection.7.1}
 \contentsline {subsection}{\numberline {7.2}Statistiques et probabilit\IeC {\'e}s}{19}{subsection.7.2}
 \contentsline {subsection}{\numberline {7.3}Projet traitement statistique de la donn\IeC {\'e}e}{19}{subsection.7.3}
-\contentsline {subsection}{\numberline {7.4}Total UE :}{19}{subsection.7.4}
+\contentsline {subsection}{\numberline {7.4}\textit {Total UE :}}{19}{subsection.7.4}
 \contentsline {section}{\numberline {8}UE Syst\IeC {\`e}mes d'information}{20}{section.8}
 \contentsline {subsection}{\numberline {8.1}Conception des syst\IeC {\`e}mes d'information}{20}{subsection.8.1}
 \contentsline {subsection}{\numberline {8.2}Traitement de requ\IeC {\^e}tes}{20}{subsection.8.2}
 \contentsline {subsection}{\numberline {8.3}Syst\IeC {\`e}mes transactionnels}{20}{subsection.8.3}
-\contentsline {subsection}{\numberline {8.4}Total UE :}{20}{subsection.8.4}
+\contentsline {subsection}{\numberline {8.4}\textit {Total UE :}}{20}{subsection.8.4}
 \contentsline {section}{\numberline {9}UE Humanit\IeC {\'e}s S6 }{21}{section.9}
 \contentsline {subsection}{\numberline {9.1}Anglais {-} communication orale et outils linguistiques}{21}{subsection.9.1}
 \contentsline {subsection}{\numberline {9.2}Simulation de gestion d'entreprise}{21}{subsection.9.2}
@@ -47,10 +47,10 @@
 \contentsline {subsection}{\numberline {9.4}Sciences sociales appliqu\IeC {\'e}es au travail S6}{21}{subsection.9.4}
 \contentsline {subsection}{\numberline {9.5}Projet de s\IeC {\'e}jour \IeC {\`a} l'international S6}{22}{subsection.9.5}
 \contentsline {subsection}{\numberline {9.6}Analyse de la pratique S6}{22}{subsection.9.6}
-\contentsline {subsection}{\numberline {9.7}Total UE :}{22}{subsection.9.7}
+\contentsline {subsection}{\numberline {9.7}\textit {Total UE :}}{22}{subsection.9.7}
 \contentsline {section}{\numberline {10}UE Activit\IeC {\'e} en entreprise S6}{23}{section.10}
 \contentsline {subsection}{\numberline {10.1}Activit\IeC {\'e} en entreprise S6}{23}{subsection.10.1}
-\contentsline {subsection}{\numberline {10.2}Total UE :}{23}{subsection.10.2}
+\contentsline {subsection}{\numberline {10.2}\textit {Total UE :}}{23}{subsection.10.2}
 \contentsline {part}{IV\hspace {1em}4eme ann\IeC {\'e}e - semestre 7}{24}{part.4}
 \contentsline {section}{\numberline {11}UE Humanit\IeC {\'e}s S7}{25}{section.11}
 \contentsline {subsection}{\numberline {11.1}Sciences sociales appliqu\IeC {\'e}es au travail S7}{25}{subsection.11.1}
@@ -59,25 +59,25 @@
 \contentsline {subsection}{\numberline {11.4}Projet de s\IeC {\'e}jour \IeC {\`a} l'international S7}{25}{subsection.11.4}
 \contentsline {subsection}{\numberline {11.5}Anglais {-} corporate culture }{25}{subsection.11.5}
 \contentsline {subsection}{\numberline {11.6}Enjeux de soci\IeC {\'e}t\IeC {\'e} et entreprise S7}{25}{subsection.11.6}
-\contentsline {subsection}{\numberline {11.7}Total UE :}{26}{subsection.11.7}
+\contentsline {subsection}{\numberline {11.7}\textit {Total UE :}}{26}{subsection.11.7}
 \contentsline {section}{\numberline {12}UE Donn\IeC {\'e}es et connaissances}{27}{section.12}
 \contentsline {subsection}{\numberline {12.1}Entrep\IeC {\^o}ts de donn\IeC {\'e}es}{27}{subsection.12.1}
 \contentsline {subsection}{\numberline {12.2}Processus de Business Intelligence}{27}{subsection.12.2}
-\contentsline {subsection}{\numberline {12.3}Total UE :}{27}{subsection.12.3}
+\contentsline {subsection}{\numberline {12.3}\textit {Total UE :}}{27}{subsection.12.3}
 \contentsline {section}{\numberline {13}UE Initiation \IeC {\`a} l'intelligence artificielle}{28}{section.13}
 \contentsline {subsection}{\numberline {13.1}Analyse de donn\IeC {\'e}es et apprentissage}{28}{subsection.13.1}
 \contentsline {subsection}{\numberline {13.2}Mod\IeC {\'e}lisation de probl\IeC {\`e}mes et optimisation combinatoire}{28}{subsection.13.2}
 \contentsline {subsection}{\numberline {13.3}Projet analyse statistique de donn\IeC {\'e}es}{28}{subsection.13.3}
 \contentsline {subsection}{\numberline {13.4}Techniques de base de l'IA}{28}{subsection.13.4}
-\contentsline {subsection}{\numberline {13.5}Total UE :}{28}{subsection.13.5}
+\contentsline {subsection}{\numberline {13.5}\textit {Total UE :}}{28}{subsection.13.5}
 \contentsline {section}{\numberline {14}UE Industrialisation de la production logicielle}{29}{section.14}
 \contentsline {subsection}{\numberline {14.1}Outils pour le d\IeC {\'e}veloppement logiciel }{29}{subsection.14.1}
 \contentsline {subsection}{\numberline {14.2}M\IeC {\'e}thodes et outils devops}{29}{subsection.14.2}
 \contentsline {subsection}{\numberline {14.3}Parall\IeC {\'e}lisation de donn\IeC {\'e}es}{29}{subsection.14.3}
-\contentsline {subsection}{\numberline {14.4}Total UE :}{29}{subsection.14.4}
+\contentsline {subsection}{\numberline {14.4}\textit {Total UE :}}{29}{subsection.14.4}
 \contentsline {section}{\numberline {15}UE Activit\IeC {\'e} en entreprise S7}{30}{section.15}
 \contentsline {subsection}{\numberline {15.1}Activit\IeC {\'e} en entreprise S7}{30}{subsection.15.1}
-\contentsline {subsection}{\numberline {15.2}Total UE :}{30}{subsection.15.2}
+\contentsline {subsection}{\numberline {15.2}\textit {Total UE :}}{30}{subsection.15.2}
 \contentsline {part}{V\hspace {1em}4eme ann\IeC {\'e}e - semestre 8}{31}{part.5}
 \contentsline {section}{\numberline {16}UE Humanit\IeC {\'e}s S8}{32}{section.16}
 \contentsline {subsection}{\numberline {16.1}Activit\IeC {\'e} en entreprise S8}{32}{subsection.16.1}
@@ -85,23 +85,23 @@
 \contentsline {subsection}{\numberline {16.3}SSAT}{32}{subsection.16.3}
 \contentsline {subsection}{\numberline {16.4}Analyse de la pratique}{32}{subsection.16.4}
 \contentsline {subsection}{\numberline {16.5}Communication professionnelle et interculturelle S8}{32}{subsection.16.5}
-\contentsline {subsection}{\numberline {16.6}Total UE :}{32}{subsection.16.6}
+\contentsline {subsection}{\numberline {16.6}\textit {Total UE :}}{32}{subsection.16.6}
 \contentsline {section}{\numberline {17}UE Documents et multim\IeC {\'e}dia}{34}{section.17}
 \contentsline {subsection}{\numberline {17.1}Donn\IeC {\'e}es multimedia}{34}{subsection.17.1}
 \contentsline {subsection}{\numberline {17.2}Traitement du langage naturel}{34}{subsection.17.2}
 \contentsline {subsection}{\numberline {17.3}Recherche d'information}{34}{subsection.17.3}
-\contentsline {subsection}{\numberline {17.4}Total UE :}{34}{subsection.17.4}
+\contentsline {subsection}{\numberline {17.4}\textit {Total UE :}}{34}{subsection.17.4}
 \contentsline {section}{\numberline {18}UE Infrastructures pour la donn\IeC {\'e}e}{35}{section.18}
 \contentsline {subsection}{\numberline {18.1}Dataops et cloud}{35}{subsection.18.1}
 \contentsline {subsection}{\numberline {18.2}Donn\IeC {\'e}es distribu\IeC {\'e}es}{35}{subsection.18.2}
 \contentsline {subsection}{\numberline {18.3}Programmation fonctionnelle}{35}{subsection.18.3}
-\contentsline {subsection}{\numberline {18.4}Total UE :}{35}{subsection.18.4}
+\contentsline {subsection}{\numberline {18.4}\textit {Total UE :}}{35}{subsection.18.4}
 \contentsline {section}{\numberline {19}UE Intelligence artificielle}{36}{section.19}
 \contentsline {subsection}{\numberline {19.1}R\IeC {\'e}seaux de neurones}{36}{subsection.19.1}
 \contentsline {subsection}{\numberline {19.2}R\IeC {\'e}seaux probabilistes}{36}{subsection.19.2}
 \contentsline {subsection}{\numberline {19.3}Extraction de connaissance dans les donn\IeC {\'e}es}{36}{subsection.19.3}
-\contentsline {subsection}{\numberline {19.4}Total UE :}{36}{subsection.19.4}
+\contentsline {subsection}{\numberline {19.4}\textit {Total UE :}}{36}{subsection.19.4}
 \contentsline {section}{\numberline {20}UE Activit\IeC {\'e} en entreprise S8}{37}{section.20}
 \contentsline {subsection}{\numberline {20.1}Activit\IeC {\'e} en entreprise S8}{37}{subsection.20.1}
-\contentsline {subsection}{\numberline {20.2}Total UE :}{37}{subsection.20.2}
+\contentsline {subsection}{\numberline {20.2}\textit {Total UE :}}{37}{subsection.20.2}
 \contentsline {part}{VI\hspace {1em}5eme ann\IeC {\'e}e - semestre 9}{38}{part.6}
