@@ -37,18 +37,19 @@ print(dfUEmatieres)
 
 # Pour le tableau récapitulatif affiché en debut de semestre
 
-syntheseSemestre = Section("Semestre")
-with syntheseSemestre.create(LongTable("c c c c")) as semestreTable:
+# Extraire la liste des noms de semestres
+nomsSemestres = dfCompositionSemestre['Semestre'].drop_duplicates()
+print(nomsSemestres)
 
-    # Extraire la liste des noms de semestres
-    nomsSemestres = dfCompositionSemestre['Semestre'].drop_duplicates()
-    print(nomsSemestres)
+# Boucle sur l'ensemble des semestres
 
-    # Boucle sur l'ensemble des semestres
+UE_number = 0
 
-    UE_number = 0
+for semestre in nomsSemestres:
 
-    for semestre in nomsSemestres:
+    syntheseSemestre = Section("Semestre")
+    with syntheseSemestre.create(LongTable("c c c c")) as semestreTable:
+
         dfUEmatieres_dans_semestre = dfUEmatieres[dfUEmatieres['Semestre'] == semestre]
 
         print(dfUEmatieres_dans_semestre)
@@ -166,10 +167,9 @@ with syntheseSemestre.create(LongTable("c c c c")) as semestreTable:
 
             # Creation du fichier latex contenant une description d'UE
 
-            semestreTable.generate_tex("generated/"+str("semestre"))
+            semestreTable.generate_tex("generated/semestre"+semestre[-1])
 
             TempsTotalSemestreMaquette = TempsTotalSemestreMaquette+TempsTotalUEMaquette
             TempsTotalSemestrePerso = TempsTotalSemestrePerso+TempsTotalUEPerso
             TempsTotalSemestre = TempsTotalSemestre + TempsTotalUE
-
             ECTSTotalSemestre = ECTSTotalSemestre+ECTSUE
