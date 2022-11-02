@@ -1,0 +1,6 @@
+(require "tex/inputenc/latin.xdy")
+(merge-rule "\\PS *" "Postscript")
+(require "texindy.xdy")
+(require "page-ranges.xdy")
+(require "book-order.xdy")
+(markup-locref :open "\hyperindexref{" :close "}")

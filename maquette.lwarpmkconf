@@ -1,0 +1,8 @@
+opsystem = "Unix"
+latexname = "pdflatex"
+sourcename = "maquette"
+homehtmlfilename = "maquette"
+htmlfilename = ""
+latexmk = "false"
+language = "english"
+xdyfile = "lwarp.xdy"
